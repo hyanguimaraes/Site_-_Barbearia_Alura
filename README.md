@@ -10,7 +10,7 @@ Site responsivo de uma Barbearia fictícia feito usando meus conhecimentos em HT
 | :fire: Cursos     | https://www.alura.com.br/formacao-programacao
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://lh3.googleusercontent.com/qdBv2B4vEGcFNoC2ZSCkLT8JbXH6DS1kgzJYn9bljl3IRf_5bJ3eS1e2g94b2eO-lu0=w2400#vitrinedev)
+![](https://lh5.googleusercontent.com/aIH3K-tccj_apIOSRNB8VtCLJTdeEtZCKYFwwRseIpkd1CQ3YyWaF2c-n13FOEX5Q74=w2400#vitrinedev)
 
 ## Detalhes do projeto
 
