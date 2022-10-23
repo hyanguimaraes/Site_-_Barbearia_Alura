@@ -1,17 +1,17 @@
-# Nome do meu projeto
+# Site Barbearia Alura
 
-Rápida descrição do objetivo de fazer esse projeto
+Site responsivo de uma Barbearia fictícia feito usando meus conhecimentos em HTML e CSS.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Site Barbearia Alura**
+| :label: Tecnologias | HTML, CSS
+| :rocket: URL         | https://hyanguimaraes.github.io/Site_-_Barbearia_Alura/
+| :fire: Cursos     | https://www.alura.com.br/formacao-programacao
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://lh3.googleusercontent.com/qdBv2B4vEGcFNoC2ZSCkLT8JbXH6DS1kgzJYn9bljl3IRf_5bJ3eS1e2g94b2eO-lu0=w2400#vitrinedev)
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Site criado durante 4 cursos voltados para HTML e CSS que fazem parte da Formação Programador Iniciante da Alura. Nestes cursos aprendi a criar esse site completo e responsivo com três páginas contendo landing page completa com mapa, vídeo e layout moderno. Há também uma página de Serviços descrevendo os serviços prestados pela barbearia e, por último, uma página de Contato contendo um form completo de contato, utilizando diversas formas de input otimizadas para uso em dispositivos mobile.
